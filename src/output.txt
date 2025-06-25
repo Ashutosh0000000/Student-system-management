@@ -1,0 +1,5 @@
+[Simulated Output]
+POST request received from login.jsp
+Username entered: student
+Password entered: 1234
+Login successful!
